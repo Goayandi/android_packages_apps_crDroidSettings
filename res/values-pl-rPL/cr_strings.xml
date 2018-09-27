@@ -1580,7 +1580,7 @@ https://plus.google.com/communities/118297646046960923906</string>
   <string name="check_update_failed">Nie można sprawdzić aktualizacji</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update check interval</string>
+  <string name="interval_title">Częstotliwość sprawdzania aktualizacji</string>
   <string name="interval_entry_disable">Wyłączony</string>
   <string name="interval_entry_15s">Co 15 sekund</string>
   <string name="interval_entry_30s">Co 30 sekund</string>
