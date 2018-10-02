@@ -998,7 +998,7 @@
   <string name="donate_crdroid_summary">Пожертви на підтримку розвитку і нашого сервера</string>
   <string name="donate_team_title">Команда crDroid</string>
   <string name="donate_team_summary">Пожертвувати на підтримку хостинга, сайту та розвитку проекту</string>
-  <string name="donate_dev_summary">Core developer - Donate for a beer or a coffee!</string>
+  <string name="donate_dev_summary">Головний розробник – пожертвувати на пиво чи каву!</string>
   <!-- Button settings -->
   <string name="hardware_keys_power_key_title">Кнопка живлення</string>
   <string name="hardware_keys_home_key_title">Кнопка \"Додому\"</string>
@@ -1558,8 +1558,8 @@
   <string name="gapps_summary">Перейти на сторінку завантаження програм google</string>
   <string name="forum_title">Форум</string>
   <string name="forum_summary">Переглянути останні обговорення</string>
-  <string name="ota_firmware_title">Download compatible firmware</string>
-  <string name="ota_firmware_summary">Visit firmware download page</string>
+  <string name="ota_firmware_title">Завантажити сумісну прошивку</string>
+  <string name="ota_firmware_summary">Відвідати сторінку завантаження прошивки</string>
   <string name="modem_title">Завантажити сумісний модем</string>
   <string name="modem_summary">Перейти на сторінку завантаження модема</string>
   <string name="bootloader_title">Завантажити сумісний загрузчик</string>
@@ -1569,7 +1569,7 @@
   <string name="paypal_title">Пожертвувати</string>
   <string name="paypal_summary">Підтримати розробку</string>
   <string name="telegram_title">Telegram</string>
-  <string name="telegram_summary">Join latest discussions on telegram for this device</string>
+  <string name="telegram_summary">Приєднуйтесь до останнього обговорення в Telegram для цього пристрою</string>
   <!-- Check update -->
   <string name="check_update_title">Перевірити оновлення</string>
   <string name="last_check_summary">Остання перевірка: %1$s</string>
@@ -1577,7 +1577,7 @@
   <string name="check_update_failed">Не вдалося перевірити оновлення</string>
   <string name="no_update_available">Оновлень немає</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update check interval</string>
+  <string name="interval_title">Інтервал автоматичної перевірки оновлень</string>
   <string name="interval_entry_disable">Вимкнено</string>
   <string name="interval_entry_15s">Кожні 15 секунд</string>
   <string name="interval_entry_30s">Кожні 30 секунд</string>
